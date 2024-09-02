@@ -6,5 +6,5 @@ Proyecto de catedra Fase 1 Diseño y Programación de Software Multiplataforma G
 
  Links
 
- Figma: https://www.figma.com/design/PlNLcA1xSYfCVPTljnWQUQ/PROYECTO-DPS?node-id=0-1&node-type=CANVAS&t=4Pc5pVQNyAFCP320-0
- Notion: https://www.notion.so/2b76e8432948444b96c5ffac4b1b6c5e?v=74090f8d9f0f4f42ac5fcd712c78562a&pvs=4
+ - Figma: https://www.figma.com/design/PlNLcA1xSYfCVPTljnWQUQ/PROYECTO-DPS?node-id=0-1&node-type=CANVAS&t=4Pc5pVQNyAFCP320-0
+ - Notion: https://www.notion.so/2b76e8432948444b96c5ffac4b1b6c5e?v=74090f8d9f0f4f42ac5fcd712c78562a&pvs=4
