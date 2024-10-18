@@ -1,5 +1,5 @@
 {
-  "name": "ecommerce",
+  "name": "strapi",
   "version": "0.1.0",
   "private": true,
   "description": "A Strapi application",
@@ -7,6 +7,7 @@
     "build": "strapi build",
     "deploy": "strapi deploy",
     "develop": "strapi develop",
+    "seed:example": "node ./scripts/seed.js",
     "start": "strapi start",
     "strapi": "strapi"
   },
@@ -15,6 +16,8 @@
     "@strapi/plugin-users-permissions": "5.1.0",
     "@strapi/strapi": "5.1.0",
     "better-sqlite3": "11.3.0",
+    "fs-extra": "^10.0.0",
+    "mime-types": "^2.1.27",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",
@@ -31,6 +34,6 @@
     "npm": ">=6.0.0"
   },
   "strapi": {
-    "uuid": "1ba8755e-1f49-4e5a-a25a-9a32858ce591"
+    "uuid": "a032c530-805f-46f9-af90-5c0a6e136005"
   }
 }
